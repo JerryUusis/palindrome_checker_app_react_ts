@@ -8,5 +8,6 @@ Welcome to the Palindrome Checker App! This simple React/TypeScript application 
 2. Click the "Check Palindrome" button.
 3. The comparison is case-insensitive.
 
+Application hosted live at: https://joyful-gumdrop-a973d5.netlify.app/
 
 Have fun checking palindromes!
